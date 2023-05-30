@@ -22,20 +22,27 @@
 ![Главное меню](https://github.com/Filolio/Miner/assets/135047128/f01bfe95-5717-4f05-960d-1b7485070e73)
 
 ### Выбор количества мин
-![Выбор количества мин](https://github.com/Filolio/Miner/assets/135047128/7bc4cd55-640c-4de0-b4f2-182a5319dd37)
+![Выбор количества мин](https://github.com/Filolio/Miner/assets/135047128/535b11cf-2e9b-4121-a2ce-a5c3b86cc028)
+
 ### Выбор количества игроков
-![Выбор количества игроков](https://github.com/Filolio/Miner/assets/135047128/ad0e23e8-8b78-489c-a065-3e7e7990a6f7)
+![Выбор количества игроков](https://github.com/Filolio/Miner/assets/135047128/a146e217-bf3a-47f9-96ca-82c32a5b81c0)
+
 ### Выбор второго игрока
-![Выбор второго игрока](https://github.com/Filolio/Miner/assets/135047128/feff81c1-9070-401c-8c23-bc3839f3ee14)
+![Выбор второго игрока](https://github.com/Filolio/Miner/assets/135047128/27174e8e-6efd-448e-a904-b8dafdf21b6f)
+
 
 ### Геймплей
 ### Начало игры
-![Начало игры](https://github.com/Filolio/Miner/assets/135047128/0fef4182-e0f1-4ac4-8799-071753386638)
+![Начало игры](https://github.com/Filolio/Miner/assets/135047128/208ae93b-f801-4530-b6d2-c1eaba47696a)
+
 ### Процесс игры
-![Процесс игры](https://github.com/Filolio/Miner/assets/135047128/d2da7efb-3208-4efa-b2d7-7e93fe41f5c0)
+![Процесс игры](https://github.com/Filolio/Miner/assets/135047128/57bc6604-7a56-4018-990f-06bfd029025f)
+
 ### Поражение
-![Поражение](https://github.com/Filolio/Miner/assets/135047128/5490b008-353e-4cd2-9939-f58ba2da67f0)
+![Поражение](https://github.com/Filolio/Miner/assets/135047128/670edb8a-ccf0-4b76-b813-bf6190edb92f)
+
 ### Победа
-![Победа](https://github.com/Filolio/Miner/assets/135047128/4ee66396-2dd8-4ecb-b561-5d641ec2d9c6)
+![Победа](https://github.com/Filolio/Miner/assets/135047128/8944c055-d60b-4e84-b6a8-7de0f51284ed)
+
 
 
