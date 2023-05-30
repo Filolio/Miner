@@ -19,7 +19,8 @@
 - `ENTER` выбор нужного пункта
 ## Скриншоты
 ### Главное меню 
-![Главное меню](https://github.com/Filolio/Miner/assets/135047128/64523c13-049a-4d11-becb-1cce48505543)
+![Главное меню](https://github.com/Filolio/Miner/assets/135047128/f01bfe95-5717-4f05-960d-1b7485070e73)
+
 ### Выбор количества мин
 ![Выбор количества мин](https://github.com/Filolio/Miner/assets/135047128/7bc4cd55-640c-4de0-b4f2-182a5319dd37)
 ### Выбор количества игроков
