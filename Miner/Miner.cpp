@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 #include <time.h>
 #include <windows.h>
 #include <conio.h>
@@ -589,7 +589,7 @@ int Cnt_bombs() { //Функция выбора количеста мин
         case Up: //если нажали "Стрелочка вверх"
             if (cnt < SIZE_x * SIZE_y - 2)
                 cnt++;
-            break; //закрыли этот кейс
+            break;
         case Down: //если нажали "Стрелочка вних"
             if (cnt > 0)
                 cnt--;
